@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Prompt Strategy Comparison"
-include(":app")
+include(":app ")
